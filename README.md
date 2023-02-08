@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=transparent)
 
 <img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
