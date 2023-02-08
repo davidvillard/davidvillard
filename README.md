@@ -1,9 +1,9 @@
 
-<h1 align="center"><b>Hello everyone!</b><img src="https://github.com/davidvillard/davidvillard/blob/main/assets/ver.gif" width="35"></h1>
+<h1 align="center"><b>Hello everyone!</b><img src="https://github.com/davidvillard/davidvillard/blob/main/assets/ola.gif" width="35"></h1>
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 
-## <div style="display: flex; gap: 0.5rem;"> <img src="https://github.com/davidvillard/davidvillard/blob/main/assets/ver.gif" width ="30"><b> About Me </b> </div>
+## <div style="display: flex; gap: 0.5rem;"> <img src="https://github.com/davidvillard/davidvillard/blob/main/assets/carpeta.gif" width ="30"><b> About Me </b> </div>
 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: davidvillard6@gmail.com
