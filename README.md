@@ -9,7 +9,7 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillard-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=tokyonight&title_color=8E2DE2&text_color=fff)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
 
