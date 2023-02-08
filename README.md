@@ -3,7 +3,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 
-## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/carpeta.gif" width ="30"><b> About Me </b> </div>
+## <div style="display: flex; gap: 0.5rem;"> <img src="https://github.com/davidvillard/davidvillard/blob/main/assets/ver.gif" width ="30"><b> About Me </b> </div>
 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: davidvillard6@gmail.com
