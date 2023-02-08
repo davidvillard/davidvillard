@@ -1,13 +1,15 @@
 
-<h1 align="center"><b>Hello everyone!</b><img src="https://github.com/davidvillard/davidvillard/blob/main/assets/ola.png" width="35"></h1>
+<h1 align="center"><b>Hello everyone!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 
-## <div style="display: flex; gap: 0.5rem;"> <img src="https://github.com/davidvillard/davidvillard/blob/main/assets/carpeta.png" width ="30"><b> About Me </b> </div>
-
-- 🌱 I’m currently learning Web Development
+## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/carpeta.gif" width ="30"><b> About Me </b> </div>
+<ul>
+  <li>🌱 I’m currently learning Web Development</li>
+  <li>🌱 </li>
 - 📫 How to reach me: davidvillard6@gmail.com
-
+</ul>
+  
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
 <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillard-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
