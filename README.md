@@ -7,7 +7,7 @@
 <ul>
   <li>🎓 I’m currently learning Web Development</li>
   <li>✍️ Self-paced learning</li>
-  <li>💻 &nbsp; Enthusiast in cyber Security</li>
+  <li>💻 Enthusiast in cyber Security</li>
 </ul>
   
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
