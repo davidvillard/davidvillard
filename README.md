@@ -6,8 +6,7 @@
 ## <div style="display: flex; gap: 0.5rem;"> <img src="https://raw.githubusercontent.com/sempereluismi/sempereluismi/master/assets/carpeta.gif" width ="30"><b> About Me </b> </div>
 <ul>
   <li>🌱 I’m currently learning Web Development</li>
-  <li>🌱 </li>
-- 📫 How to reach me: davidvillard6@gmail.com
+  <li>🌱 Self-paced learning</li>
 </ul>
   
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
