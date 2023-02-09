@@ -35,7 +35,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<p align="center">
+<p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davidvillard" id="counter">
 </p>
-⭐️ By [davidvillard](https://github.com/davidvillard)
+⭐️ By [davidvillard]
