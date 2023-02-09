@@ -11,9 +11,9 @@
 </ul>
   
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-🤝🏻
+<br>
 <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillard-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+<br>
 <h3>🛠 Tech Stack</h3>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
