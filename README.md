@@ -16,7 +16,7 @@
 <br>
 
 <h3>🛠 Tech Stack</h3>
-
+<br>
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
@@ -28,15 +28,15 @@
 
 
 <h3>Github Stats</h3>
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
 
 <h3>Trophy</h3>
-
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Top Langs</h3>
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <p align="left">
