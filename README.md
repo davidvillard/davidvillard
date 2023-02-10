@@ -28,12 +28,15 @@
 
 
 <h3>Github Stats</h3>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
 
 <h3>Trophy</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Top Langs</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <p align="left">
