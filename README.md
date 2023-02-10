@@ -31,6 +31,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/davidvillardryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
 
