@@ -3,7 +3,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-<div style="display: flex; gap: 0.5rem;"><h3> 👨🏻‍💻 <b> About Me </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b></h3> </div>
 <br>
 <ul>
   <li>🎓 I’m currently learning Web Development</li>
