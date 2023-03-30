@@ -26,9 +26,9 @@
 ![MySQL](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-
-
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 <h3>Github Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
