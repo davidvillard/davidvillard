@@ -44,3 +44,5 @@
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davidvillard" id="counter">
 </p>
+
+<img src="https://skillicons.dev/icons?i=js,php,py,lua,java,vue,html,css,docker,mysql,tailwind,bots"/>
