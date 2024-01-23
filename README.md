@@ -38,15 +38,15 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
-<br>
+
 <h3>Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br>
+
 <h3>Top Langs</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
-<br>
+
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davidvillard" id="counter">
 </p>
