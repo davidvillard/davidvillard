@@ -25,7 +25,7 @@
   </a>
 </p>
 <br>
-<h2>Some technologies and tools that I have used ⚙️</h2>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Some technologies and tools that I have used </b></h3> </div>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
