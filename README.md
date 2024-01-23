@@ -45,4 +45,13 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=davidvillard" id="counter">
 </p>
 
-<img src="https://skillicons.dev/icons?i=js,php,py,lua,java,vue,html,css,docker,mysql,tailwind,bots"/>
+<h2>Mis herramientas y tecnologías favoritas ⚙️</h2>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
