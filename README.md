@@ -48,7 +48,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
 <h2>Mis herramientas y tecnologías favoritas ⚙️</h2>
 <br>
 <p align="center">
