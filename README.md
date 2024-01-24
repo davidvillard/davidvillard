@@ -49,11 +49,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidvillard&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <p align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=davidvillard" id="counter">
+<img src="https://profile-counter.glitch.me/davidvillard/count.svg">
 </p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <br>
-
-<img src="https://profile-counter.glitch.me/davidvillard/count.svg">
