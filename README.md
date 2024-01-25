@@ -29,7 +29,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,vue,idea,aws,eclipse,bash,wordpress" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,vue,idea,aws,eclipse,wordpress" />
   </a>
 </p>
 <br>
