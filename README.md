@@ -6,9 +6,9 @@
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b></h3> </div>
 <br>
 <ul>
-  <li>🎓 I’m currently learning Web Development</li>
-  <li>✍️ Self-paced learning</li>
-  <li>💻 Enthusiast in cyber Security</li>
+  <li>🎓 Actualmente estoy cursando Desarrollo de Aplicaciones Web (DAW)</li>
+  <li>✍️ Disfruto aprendiendo de forma autodidacta</li>
+  <li>💻 Apasionado en la ciberseguridad</li>
 </ul>
 
 <br>
