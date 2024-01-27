@@ -3,7 +3,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> About Me </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
 <br>
 <ul>
   <li>🎓 Actualmente estoy cursando Desarrollo de Aplicaciones Web (DAW)</li>
@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> My favourite tools and technologies </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
   </a>
 </p>
 <br>
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Some technologies and tools that I have used </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
