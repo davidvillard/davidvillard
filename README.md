@@ -13,11 +13,7 @@
 
 <br>
 <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillardd-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
 <br>
