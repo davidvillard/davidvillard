@@ -6,7 +6,7 @@
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
 <br>
 <ul>
-  <li>🎓 Actualmente estoy cursando Desarrollo de Aplicaciones Web (DAW)</li>
+  <li>🎓 Actualmente cursando Desarrollo de Aplicaciones Web (DAW)</li>
   <li>✍️ Disfruto aprendiendo de forma autodidacta</li>
   <li>💻 Apasionado en la ciberseguridad</li>
 </ul>
