@@ -2,7 +2,7 @@
 <h1 align="center"><b>Bienvenidos!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400"/>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
 <br>
 <ul>
