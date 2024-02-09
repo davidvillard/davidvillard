@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 <h1 align="center"><b>Bienvenidos!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+=======
+
+<h1 align="center"><b>Bienvenidos!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+>>>>>>> f7ac321352304c2e9eec819d83267aee3a82e300
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400"/>
