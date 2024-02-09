@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+<h1 align="center"><b>Bienvenidos!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-# <h1 align="center"><b>Bienvenidos!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<h1 align="center"><b>Bienvenidos!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
->>>>>>> f7ac321352304c2e9eec819d83267aee3a82e300
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400"/>
@@ -23,7 +19,7 @@
 <br>
 <br>
 
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
   <code><img height="50" src="https://skillicons.dev/icons?i=git"></code>
@@ -39,7 +35,7 @@
   <code><img height="50" src="https://skillicons.dev/icons?i=react"></code>
 </p>
 <br>
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="40"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
