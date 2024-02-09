@@ -7,8 +7,10 @@
 <br>
 <ul>
   <li>🎓 Actualmente cursando Desarrollo de Aplicaciones Web (DAW)</li>
-  <li>✍️ Disfruto aprendiendo de forma autodidacta</li>
-  <li>💻 Apasionado en la ciberseguridad</li>
+  <li>✍️ Disfruto aprendiendo de forma autodidácta</li>
+  <li>💻 Apasionado de la ciberseguridad</li>
+  <li>👟 Fanático del streetwear y las sneakers</li>
+
 </ul>
 
 <br>
