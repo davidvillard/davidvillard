@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Bienvenidos!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
@@ -23,8 +22,18 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,css,html,github,java,js,linux,mysql,php,react" />
-  </a>
+<code><img height="30" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=php"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=react"></code>
+</a>
 </p>
 <br>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
@@ -55,5 +64,3 @@
 <p align="left">
 <img src="https://profile-counter.glitch.me/davidvillard/count.svg">
 </p>
-
-
