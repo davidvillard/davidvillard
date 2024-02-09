@@ -1,6 +1,5 @@
 <h1 align="center"><b>Bienvenidos!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400"/>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
@@ -20,7 +19,6 @@
 <br>
 <br>
 <br>
-
 
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
 <br>
@@ -53,6 +51,7 @@
 <br>
 <br>
 <br>
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtoMncyZXFlZ282aTBsdTN5ZjNudmVobzc2bmlkMG54ZzYwa3MwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j25atM0JZYLeEvyEc7/giphy.gif" width="35">Spotify Playing</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1k8qlsr41wok9n28ghwc9edzs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/user/1k8qlsr41wok9n28ghwc9edzs?si=67acc30846db4449)
 <br>
