@@ -58,7 +58,7 @@
 
 <br><h3>Trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><h3>Top Langs</h3>
 
