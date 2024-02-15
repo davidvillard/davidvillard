@@ -41,8 +41,6 @@
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=eclipse"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=aws"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=idea"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=tailwind"></code>
