@@ -22,10 +22,6 @@
 
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,css,html,github,java,js,linux,mysql,php" />
-  </a>
 <p align="center" style="text-align: center;">
   <code><img height="50" src="https://skillicons.dev/icons?i=git"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=docker"></code>
@@ -42,10 +38,6 @@
 <br>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
 <br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vscode,vue,wordpress" />
-  </a>
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=eclipse"></code>
