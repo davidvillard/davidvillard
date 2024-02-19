@@ -29,8 +29,6 @@
   <code><img height="50" src="https://skillicons.dev/icons?i=html"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=github"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=java"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=js"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=linux"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=mysql"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=php"></code>
   <code><img height="50" src="https://skillicons.dev/icons?i=react"></code>
@@ -40,7 +38,6 @@
 <br>
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=eclipse"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=tailwind"></code>
