@@ -18,7 +18,7 @@
 <br>
 <br>
 
-![large-colored-instagram](large/colored/instagram.svg)
+![large-colored-instagram](assets/large/colored/instagram.svg)
 
 <br>
 <br>
