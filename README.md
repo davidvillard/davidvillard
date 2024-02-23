@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-https://www.github.com/davidvillard/davidvillard/tree/main/assets/large/colored/instagram.svg
+https://raw.githubusercontent.com/davidvillard/davidvillard/tree/main/assets/large/colored/instagram.svg
 <br>
 <br>
 
