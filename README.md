@@ -13,8 +13,10 @@
 </ul>
 
 <br>
+<a href="https://www.instagram.com/davidvillardd/">
 
-![large-colored-instagram](assets/large/colored/instagram.svg)<a href="https://www.instagram.com/davidvillardd/"><h1>@davidvillardd</h1></a>
+![large-colored-instagram](assets/large/colored/instagram.svg)@davidvillardd
+</a>
 <br>
 <br>
 <br>
