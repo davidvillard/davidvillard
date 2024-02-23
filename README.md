@@ -13,10 +13,12 @@
 </ul>
 
 <br>
-<a href="https://www.instagram.com/davidvillardd/">
-
-![large-colored-instagram](assets/large/colored/instagram.svg)@davidvillardd
-</a>
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+  <a href="https://www.instagram.com/davidvillardd/">
+    <img src="assets/large/colored/instagram.svg" alt="large-colored-instagram" width="50" height="50">
+    @davidvillardd
+  </a>
+</div>
 <br>
 <br>
 <br>
