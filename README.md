@@ -13,13 +13,11 @@
 </ul>
 
 <br>
-<a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillardd-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<br>
-<br>
-<br>
 
-![large-colored-instagram](assets/large/colored/instagram.svg)
-
+![large-colored-instagram](assets/large/colored/instagram.svg)<a href="https://www.instagram.com/davidvillardd/"><h1>@davidvillardd</h1></a>
+<br>
+<br>
+<br>
 <br>
 <br>
 
