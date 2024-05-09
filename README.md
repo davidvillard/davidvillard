@@ -7,9 +7,9 @@
 <ul>
   <li>🎓 Actualmente cursando Desarrollo de Aplicaciones Web (DAW)</li>
   <li>✍️ Disfruto aprendiendo de forma autodidácta</li>
-
 </ul>
-
+<br>
+<br>
 <br>
 <br>
 <br>
