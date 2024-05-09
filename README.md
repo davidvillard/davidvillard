@@ -59,8 +59,6 @@
 <h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtoMncyZXFlZ282aTBsdTN5ZjNudmVobzc2bmlkMG54ZzYwa3MwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j25atM0JZYLeEvyEc7/giphy.gif" width="35">Spotify Playing</h3>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1k8qlsr41wok9n28ghwc9edzs&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://open.spotify.com/user/1k8qlsr41wok9n28ghwc9edzs?si=67acc30846db4449)
-<br>
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>
 
