@@ -15,39 +15,23 @@
 <br>
 <br>
 <div align="center">
-  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
-  <p>Soy un apasionado de la <strong>ciberseguridad</strong> y del <strong>desarrollo web</strong> con un toque creativo.</p>
-  
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300" height="auto" style="border-radius:10px; margin-top:20px;">
-  
-  <h3>🌌 Acerca de mí</h3>
-  <p style="max-width: 600px; font-size: 16px;">
-    Me considero un eterno aprendiz y explorador del mundo tech. Me encanta estar al día con las últimas tendencias y siempre busco mejorar mis habilidades. Entre mis hobbies destacan:
-  </p>
-  
-  <p>
-    <span>📚 Leer filosofía y Bukowski</span> &nbsp;&bull;&nbsp;
-    <span>🏀 Jugar baloncesto</span> &nbsp;&bull;&nbsp;
-    <span>🎶 Escuchar música para concentrarme</span>
-  </p>
-  
-  <h3>💻 Tecnologías</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/-Django-333?style=flat&logo=django&logoColor=092E20">
-    <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript">
-    <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5">
-    <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=264de4">
-    <img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker">
-  </p>
+  <h1>👋 Hola, soy [Tu Nombre]</h1>
+  <p>Apasionado por la <strong>ciberseguridad</strong> y el <strong>desarrollo web</strong> con un toque de creatividad.</p>
 
-  <h3>📫 Contacto</h3>
-  <p>
-    <a href="mailto:tuemail@ejemplo.com">📧 Email</a> |
-    <a href="https://www.linkedin.com/in/tuusuario/">💼 LinkedIn</a> |
-    <a href="https://github.com/tuusuario">👾 GitHub</a>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="320" style="border-radius: 12px; margin: 20px 0;">
+
+  <h2>🌌 Un poco sobre mí</h2>
+  <p style="max-width: 600px; font-size: 16px;">
+    Soy un explorador constante en el mundo tech y un eterno aprendiz. Me encanta profundizar en el conocimiento y mejorar cada día. 
   </p>
+  
+  <div style="font-size: 18px; line-height: 1.6;">
+    <p>📚 Leer filosofía y Bukowski</p>
+    <p>🏀 Baloncesto, desde siempre</p>
+    <p>🎶 Música en cada momento de trabajo</p>
+  </div>
 </div>
+
 
 <br>
 <br>
