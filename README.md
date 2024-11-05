@@ -2,14 +2,13 @@
 
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="400"/>
-<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://i.giphy.com/media/v1. Y2lkPTc5MGI3NjExY3YwZjc2MWJsZ2FjaWt5dDJ5Z2g3ZXM0MWtsanZkZnozbzRidjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width = 50px></picture> <b> Sobre mi </b></h3> </div>
 <br>
 <ul>
   <li>🎓 Actualmente cursando Desarrollo de Aplicaciones Web (DAW)</li>
   <li>✍️ Disfruto aprendiendo de forma autodidácta</li>
   <li>💻 Apasionado de la ciberseguridad</li>
   <li>👟 Fanático del streetwear y las sneakers</li>
-
 </ul>
 
 <br>
@@ -17,6 +16,36 @@
 <br>
 <br>
 <br>
+<div align="center">
+  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+  <p>Apasionado por la <strong>ciberseguridad</strong>, la <strong>tecnología</strong> y el <strong>desarrollo web</strong>.</p>
+  <p>Me encanta aprender sobre nuevas tecnologías y estoy constantemente mejorando mis habilidades en el mundo tech.</p>
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300" height="auto">
+  
+  <h3>🌟 Acerca de mí</h3>
+  <ul>
+    <li>💻 Informático con interés en ciberseguridad y desarrollo web</li>
+    <li>📚 Aficionado a la lectura (Bukowski y filosofía 👌)</li>
+    <li>🏀 Amante del baloncesto y el ejercicio</li>
+    <li>🎶 Disfruto la música a diario</li>
+  </ul>
+  
+  <h3>🚀 Habilidades</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/-Django-333?style=flat&logo=django&logoColor=092E20">
+    <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript">
+    <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5">
+    <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=264de4">
+    <img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker">
+  </p>
+
+  <h3>📫 Contáctame</h3>
+  <p>
+    <a href="mailto:tuemail@ejemplo.com">📧 Email</a> |
+    <a href="https://www.linkedin.com/in/tuusuario/">💼
+
 <br>
 <br>
 
