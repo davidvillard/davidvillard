@@ -42,9 +42,6 @@
 <code><img height="50" src="https://skillicons.dev/icons?i=java"></code>
 </p>
 <br>
-<br>
-<br>
-<br>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Algunas herramientas y tecnologias que estoy aprendiendo </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
