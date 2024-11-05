@@ -3,9 +3,11 @@
 <img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
 <div style="display: flex; gap: 0.5rem;"><h3> <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwZjc2MWJsZ2FjaWt5dDJ5Z2g3ZXM0MWtsanZkZnozbzRidjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width = 35px></picture> <b> Sobre mi </b></h3> </div>
 <br>
+<div align="center">
 <div style="font-size: 18px; line-height: 1.6;">
   <p>🎓 Actualmente cursando Desarrollo de Aplicaciones Web (DAW)</p>
   <p>✍️ Disfruto aprendiendo de forma autodidácta</p>
+</div>
 </div>
 <br>
 <a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillardd-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
