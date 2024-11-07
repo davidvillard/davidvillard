@@ -16,7 +16,7 @@
 <br>
 <br>
 <br>
-<h1 align="center"><b>Habilidades Técnicas</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVqNG56MzJ5NHg1dmU3Mjk0a2wzcWdtbzJtcW9sZHMyNDg5ejkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Habilidades Técnicas</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVqNG56MzJ5NHg1dmU3Mjk0a2wzcWdtbzJtcW9sZHMyNDg5ejkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.gif" width="50"></h1>
 <br>
 <br>
 <div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Lenguajes de programación </b></h3> </div>
@@ -35,7 +35,7 @@
 <code><img height="50" src="https://skillicons.dev/icons?i=css"></code>
 </p>
 <br>
-<div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2NjZ2c21qNzcybXhhaXZ4cWllam9mczY0YzMwdzJtd2d2NzFqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivtjsoZxjH0j9p4XOe/giphy.gif" width ="35"></picture> <b> Frameworks y librerías </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI2NjZ2c21qNzcybXhhaXZ4cWllam9mczY0YzMwdzJtd2d2NzFqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivtjsoZxjH0j9p4XOe/giphy.gif" width ="45"></picture> <b> Frameworks y librerías </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=tailwind"></code>
@@ -47,7 +47,7 @@
 <code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
 </p>
 <br>
-<div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3eGxieHo4anhmeTJ2bnF4ODRkbTQ2MWxmMTBuaG5lbXJ3M3BmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width ="35"></picture> <b> Bases de datos </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3eGxieHo4anhmeTJ2bnF4ODRkbTQ2MWxmMTBuaG5lbXJ3M3BmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width ="40"></picture> <b> Bases de datos </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=mysql"></code>
