@@ -10,8 +10,8 @@
 </div>
 <br>
 <br>
-<div align="center" style="border-radius:25px;">
-<a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillardd-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<div align="center">
+<a href="https://www.instagram.com/davidvillardd/"><img src="https://img.shields.io/badge/instagram%20@davidvillardd-DD2476?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius:25px;"/></a>
 </div>
 <br>
 <br>
