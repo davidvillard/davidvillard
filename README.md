@@ -83,18 +83,6 @@
 <h1 align="center"><b>Estadísticas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <br>
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidvillard&show_icons=true&theme=tokyonight)
-
-</div>
-<br><h3 align="center">Trophy</h3>
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidvillard&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 <br><h3 align="center">Top Langs</h3>
 <div align="center">
 
