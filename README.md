@@ -94,7 +94,7 @@
 <br>
 <br>
 <br>
-<h1 align="center"><b>Estadísticas</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyeTY1d212OWgyc25tdWo2ejF4N3htN244OGE1cTdtcTJ3eG9kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Estadísticas</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtyeTY1d212OWgyc25tdWo2ejF4N3htN244OGE1cTdtcTJ3eG9kYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IcnxGGAj0ubyB2r5M6/giphy.gif" width="45"></h1>
 <br><h3 align="center">Top Langs</h3>
 <div align="center">
 
