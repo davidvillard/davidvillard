@@ -18,47 +18,71 @@
 <br>
 <br>
 <br>
-<h1 align="center"><b>Bienvenidos!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Mis herramientas y tecnologias favoritas </b></h3> </div>
+<h1 align="center"><b>Habilidades Técnicas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"></picture> <b> Lenguajes de programación </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
-  <code><img height="50" src="https://skillicons.dev/icons?i=git"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=docker"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=css"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=html"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=mysql"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=tailwind"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=astro"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=netlify"></code>
-  <code><img height="50" src="https://skillicons.dev/icons?i=obsidian"></code>
+  <code><img height="50" src="https://skillicons.dev/icons?i=js"></code>
+  <code><img height="50" src="https://skillicons.dev/icons?i=py"></code>
+  <code><img height="50" src="https://skillicons.dev/icons?i=php"></code>
+  <code><img height="50" src="https://skillicons.dev/icons?i=java"></code>
 </p>
 <br>
-<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Algunas herramientas y tecnologias que suelo utilizar </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Lenguajes de Marcado y estilos </b></h3> </div>
 <br>
 <p align="center" style="text-align: center;">
-<code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=php"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=css"></code>
+</p>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Frameworks y librerías </b></h3> </div>
+<br>
+<p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=tailwind"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=bootstrap"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=java"></code>
-</p>
-<br>
-<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Algunas herramientas y tecnologias que estoy aprendiendo </b></h3> </div>
-<br>
-<p align="center" style="text-align: center;">
-<code><img height="50" src="https://skillicons.dev/icons?i=react"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=py"></code>
-<code><img height="50" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=express"></code>
 <code><img height="50" src="https://skillicons.dev/icons?i=django"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=vue"></code>
+</p>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Bases de datos </b></h3> </div>
+<br>
+<p align="center" style="text-align: center;">
+<code><img height="50" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=mongodb"></code>
+</p>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Control de versiones, despliegue y gestión de APIs </b></h3> </div>
+<br>
+<p align="center" style="text-align: center;">
+<code><img height="50" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=netlify"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=postman"></code>
+</p>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> Entornos de desarrollo y editores de texto </b></h3> </div>
+<br>
+<p align="center" style="text-align: center;">
+<code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
+<code><img height="50" src="https://skillicons.dev/icons?i=obsidian"></code>
+</p>
+<br>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3> <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY3eTBlemhsOGZvenhjMHNzajYwMmludHVsMndyMzdrOTFibHlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h1QmJxwoCr19BtTkGt/giphy.gif" width ="30"></picture> <b> CMS (Sistema de gestión de contenidos) </b></h3> </div>
+<br>
+<p align="center" style="text-align: center;">
+<code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
 </p>
 <br>
 <br>
 <br>
-
+<h1 align="center"><b>Estadísticas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br>
+<br>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h3>
 <div align="center">
 
