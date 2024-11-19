@@ -16,6 +16,21 @@
 <br>
 <br>
 <br>
+<h1 align="center"><b>Proyectos 🗃️</b></h1>
+<br>
+<br>
+<div align="center">
+
+| Nombre del Proyecto | Descripción del Proyecto | Colaboradores | Frameworks y Lenguajes | Repositorio | Enlaces Web | Estado |
+|--------|--------------------------|---------------|----------------------| ----------- | ----------- | ------ |
+| **Interstellar** | Proyecto web dedicado a la película Interstellar. | ❌ | <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro Badge"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL Badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker Badge"/> <img src="https://img.shields.io/badge/Netlify-%23500000.svg?logo=netlify&logoColor=#00C7B7" alt="Netlify Badge"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express"/> | [Interstellar](https://github.com/davidvillard/interstellar) | [Interstellar](https://interstellarfanpage.netlify.app/) | 🔧 En Proceso 
+| **Modular** | Proyecto dedicado a la facil creacion, moficiacion y consulta de horarios y m´dulos de un instituto. | [Luis Miguel](https://github.com/sempereluismi), [Andrea](https://github.com/a22andreatf), [Manuel](https://github.com/mmanuch) | <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP Badge"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Javascript Badge"/> | [Modular](https://github.com/sempereluismi/modular) | ❌ | ✅Finalizado 
+
+</div>
+<br>
+<br>
+<br>
+<br>
 <h1 align="center"><b>Habilidades Técnicas</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVqNG56MzJ5NHg1dmU3Mjk0a2wzcWdtbzJtcW9sZHMyNDg5ejkxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QJ8bR5An4VC59FvVcx/giphy.gif" width="50"></h1>
 <br>
 <br>
@@ -75,21 +90,6 @@
 <p align="center" style="text-align: center;">
 <code><img height="50" src="https://skillicons.dev/icons?i=wordpress"></code>
 </p>
-<br>
-<br>
-<br>
-
-<h1 align="center"><b>Proyectos 🗃️</b></h1>
-<br>
-<br>
-<div align="center">
-
-| Nombre del Proyecto | Descripción del Proyecto | Colaboradores | Frameworks y Lenguajes | Repositorio | Enlaces Web | Estado |
-|--------|--------------------------|---------------|----------------------| ----------- | ----------- | ------ |
-| **Interstellar** | Proyecto web dedicado a la película Interstellar. | ❌ | <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" alt="Astro Badge"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Javascript Badge"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL Badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker Badge"/> <img src="https://img.shields.io/badge/Netlify-%23500000.svg?logo=netlify&logoColor=#00C7B7" alt="Netlify Badge"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express"/> | [Interstellar](https://github.com/davidvillard/interstellar) | [Interstellar](https://interstellarfanpage.netlify.app/) | 🔧 En Proceso 
-| **Modular** | Proyecto dedicado a la facil creacion, moficiacion y consulta de horarios y m´dulos de un instituto. | [Luis Miguel](https://github.com/sempereluismi), [Andrea](https://github.com/a22andreatf), [Manuel](https://github.com/mmanuch) | <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP Badge"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Javascript Badge"/> | [Modular](https://github.com/sempereluismi/modular) | ❌ | ✅Finalizado 
-
-</div>
 <br>
 <br>
 <br>
