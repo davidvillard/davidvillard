@@ -1,7 +1,7 @@
 <div align="center"><img src="./assets/images/Banner Github.svg"/></div>
 <br>
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=24&duration=2000&pause=500&color=5783E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=24&duration=2000&pause=500&color=5783E8&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/>
 </div>
 <br>
 <br>
