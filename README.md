@@ -1,10 +1,10 @@
 <div align="center"><img src="./assets/images/Banner Github.svg"/></div>
 <br>
 <h1 align="left">
-<img width="400" src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=26&duration=2000&pause=500&color=5783E8&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img width="400" src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=26&duration=2000&pause=500&color=5783E8&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/></h1>
 <br>
 <br>
-<div style="display: flex; gap: 0.5rem;" align="left"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwZjc2MWJsZ2FjaWt5dDJ5Z2g3ZXM0MWtsanZkZnozbzRidjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width = 35px></picture> <b> Sobre mi </b></h3> </div>
+<div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwZjc2MWJsZ2FjaWt5dDJ5Z2g3ZXM0MWtsanZkZnozbzRidjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width = 35px></picture> <b> Sobre mi </b></h3> </div>
 <br>
 <div style="font-size: 20px; line-height: 1.6;" align="center">
   <p> Actualmente me encuento cursando Desarrollo de Aplicaciones Web (DAW). Me encanta el diseño web, tanto frontend como backend. Disfruto creando nuevos diseños y aprendiendo de los mejores. Proactivo, y siempre con ganas de aprender algo nuevo!</p>
