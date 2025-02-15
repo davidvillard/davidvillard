@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=32&duration=2000&pause=500&color=6A00DF&width=600&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=32&duration=2000&pause=500&color=B069FF&width=600&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/>
 </div>
 <br>
 <br>
