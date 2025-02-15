@@ -1,6 +1,8 @@
 <div align="center"><img src="./assets/images/Banner Github.svg"/></div>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Days+One&size=24&duration=2000&pause=500&color=5783E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!)](https://git.io/typing-svg)
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=Days+One&size=24&duration=2000&pause=500&color=5783E8&center=true&vCenter=true&width=435&lines=Hola%2C+soy+David!;Soy+Desarrollador+Full+Stack;Apasionado+de+la+ciberseguridad;Hablemos!"  alt="Davidvillard"/>
+</div>
 <br>
 <br>
 <div style="display: flex; gap: 0.5rem;" align="center"><h3 style="font-size:xx-large;"> <picture><img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwZjc2MWJsZ2FjaWt5dDJ5Z2g3ZXM0MWtsanZkZnozbzRidjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width = 35px></picture> <b> Sobre mi </b></h3> </div>
