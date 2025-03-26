@@ -1,4 +1,4 @@
-<div align="center"><img src="./assets/images/Banner Github.svg"/></div>
+<div align="center"><img src="./assets/images/Banner Github 2.png"/></div>
 <br>
 <br>
 <br>
