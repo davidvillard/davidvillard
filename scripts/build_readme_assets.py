@@ -158,26 +158,6 @@ def tile_base(x, y, size, gid):
     )
 
 
-def monogram_tile(x, y, size, px, gid):
-    """App-icon style squircle with the pixel 'DV' monogram."""
-    r = size * 0.24
-    mw, mh = text_width("DV", px), 7 * px
-    mx, my = x + (size - mw) / 2, y + (size - mh) / 2
-    return (
-        f'<defs><linearGradient id="{gid}t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/>'
-        f'<stop offset=".55" stop-color="#6d28d9"/><stop offset="1" stop-color="#a21caf"/></linearGradient>'
-        f'<linearGradient id="{gid}s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/>'
-        f'<stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient>'
-        f'<linearGradient id="{gid}m" gradientUnits="userSpaceOnUse" x1="{mx}" y1="{my}" x2="{mx + mw}" y2="{my + mh}">'
-        f'<stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ddd6fe"/></linearGradient></defs>'
-        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{r:.0f}" fill="url(#{gid}t)"/>'
-        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{r:.0f}" fill="url(#{gid}s)"/>'
-        f'<rect x="{x + .5}" y="{y + .5}" width="{size - 1}" height="{size - 1}" rx="{r:.0f}" fill="none" stroke="#fff" stroke-opacity=".25"/>'
-        f'<g opacity=".28">{pixel_text("DV", mx + px * 0.35, my + px * 0.35, px, "#000")}</g>'
-        + pixel_text("DV", mx, my, px, f"url(#{gid}m)")
-    )
-
-
 # ---------------------------------------------------------------- hero
 def hero():
     W, H = 1280, 560
@@ -377,7 +357,12 @@ def terminal():
     t = 1.35
     y += lh + 14
     tile = 196
-    b.append(f'<g>{fade_in(t)}' + monogram_tile(x0 + 4, y - 6, tile, 13, "nm") + "</g>")
+    sp = 11
+    b.append(
+        f'<g>{fade_in(t)}' + tile_base(x0 + 4, y - 6, tile, "na")
+        + sprite(AVATAR, AVATAR_PAL, x0 + 4 + (tile - 16 * sp) / 2 - sp / 2, y - 6 + (tile - 16 * sp) / 2 + 3, sp)
+        + "</g>"
+    )
     ix = x0 + tile + 64
     yy = y + 14
     head = [
