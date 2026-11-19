@@ -3,11 +3,14 @@
 Style: Apple-keynote darkness + restrained pixel art. No dependencies.
 Run:  python scripts/build_readme_assets.py
 """
+import base64
 import random
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-OUT = Path(__file__).resolve().parent.parent / "assets" / "readme"
+HERE = Path(__file__).resolve().parent
+OUT = HERE.parent / "assets" / "readme"
+LOGOS = HERE / "logos"  # original project logos, embedded as data URIs
 
 SANS = "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Inter, Arial, sans-serif"
 MONO = "'SF Mono', ui-monospace, Menlo, 'Cascadia Code', Consolas, 'Liberation Mono', monospace"
@@ -116,6 +119,45 @@ def iri_gradient(gid, x1, x2, stops=(TEXT, "#e9d5ff", "#c4b5fd", "#93c5fd", PINK
     return f'<linearGradient id="{gid}" gradientUnits="userSpaceOnUse" x1="{x1}" y1="0" x2="{x2}" y2="0">{s}</linearGradient>'
 
 
+# ---------------------------------------------------------------- avatar sprite (me, with the cap)
+AVATAR = [
+    "................",
+    ".....KKKKKK.....",
+    "...KKKKKKKKKK...",
+    "..KKkkKKKKKKKK..",
+    "..KkkKKKKKKKKK..",
+    "..KKKKKKKKKKKKKKK",
+    "..HHSSSSSSSSHH..",
+    "..HSSSSSSSSSSH..",
+    "..SSEWSSSSSSSS..",
+    ".sSSEESSSSEESSs.",
+    "..SPSSSSSSSSPS..",
+    "..SSSSMSSSMSSS..",
+    "...SSSSMMMSSSS..",
+    "....sSSSSSSs....",
+    "..TTTTTsTTTTTT..",
+    ".TTTTTTTTTTTTTT.",
+]
+AVATAR_PAL = {
+    "K": "#111114", "k": "#3a3a40", "H": "#3b2418", "S": "#f2c38f", "s": "#d99a63",
+    "E": "#111114", "W": "#ffffff", "P": "#f29a8a", "M": "#7a2e2e", "T": "#8b5cf6",
+}
+
+
+def tile_base(x, y, size, gid):
+    """App-icon style squircle (gradient + top shine + hairline)."""
+    r = size * 0.24
+    return (
+        f'<defs><linearGradient id="{gid}t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#312e81"/>'
+        f'<stop offset=".55" stop-color="#6d28d9"/><stop offset="1" stop-color="#a21caf"/></linearGradient>'
+        f'<linearGradient id="{gid}s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".2"/>'
+        f'<stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>'
+        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{r:.0f}" fill="url(#{gid}t)"/>'
+        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{r:.0f}" fill="url(#{gid}s)"/>'
+        f'<rect x="{x + .5}" y="{y + .5}" width="{size - 1}" height="{size - 1}" rx="{r:.0f}" fill="none" stroke="#fff" stroke-opacity=".25"/>'
+    )
+
+
 def monogram_tile(x, y, size, px, gid):
     """App-icon style squircle with the pixel 'DV' monogram."""
     r = size * 0.24
@@ -204,13 +246,15 @@ def hero():
         if i < len(meta) - 1:
             b.append(f'<rect x="{mx - 15}" y="{my - 8}" width="5" height="5" fill="{VIOLET}"/>')
 
-    # app-icon tile with the DV monogram
+    # app-icon tile with the pixel avatar
     ts = 300
     tx, ty0 = 900, (H - ts) / 2
+    sp = 16
     b.append(
         f'<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="6s" repeatCount="indefinite"/>'
         f'<rect x="{tx + 30}" y="{ty0 + 60}" width="{ts - 60}" height="{ts - 40}" rx="60" fill="#a855f7" opacity=".5" filter="url(#blur)"/>'
-        + monogram_tile(tx, ty0, ts, 20, "hm")
+        + tile_base(tx, ty0, ts, "ha")
+        + sprite(AVATAR, AVATAR_PAL, tx + (ts - 16 * sp) / 2 - sp / 2, ty0 + (ts - 16 * sp) / 2 + 4, sp)
         + "</g>"
     )
     return svg(W, H, "".join(b), "David Villar Durán — Full-stack developer")
@@ -385,36 +429,6 @@ def terminal():
 
 # ---------------------------------------------------------------- project cards
 ICONS = {
-    "durandev": (
-        ["XXXXXXXXXXXX", "XRXYXGX....X", "XXXXXXXXXXXX", "X..........X", "X.A........X",
-         "X..A.......X", "X.A..AAA...X", "X..........X", "XXXXXXXXXXXX"],
-        {"X": TEXT, "A": VIOLET, "R": "#ff5f57", "Y": "#febc2e", "G": "#28c840"},
-    ),
-    "quecoche": (
-        ["...XXXXX....", "..XA.XAA.X..", ".XAA.XAAA.X.", "XXXXXXXXXXXX", "XXXXXXXXXXYY",
-         "XXKKXXXXKKXX", "..KK....KK.."],
-        {"X": TEXT, "A": "#93c5fd", "Y": "#fde68a", "K": "#27272a"},
-    ),
-    "anden": (
-        ["..XXXXXXXX..", ".XXXXXXXXXX.", ".XAAAAAAAAX.", ".XAAAAAAAAX.", ".XXXXXXXXXX.",
-         ".XYXXXXXXYX.", ".XXXXXXXXXX.", "..XX....XX..", ".R........R.", "RRRRRRRRRRRR"],
-        {"X": TEXT, "A": "#5eead4", "Y": "#fde68a", "R": "#99f6e4"},
-    ),
-    "llavero": (
-        ["...XXXXXX...", "..XX....XX..", "..X......X..", "..X......X..", "YYYYYYYYYYYY",
-         "YYYYYKKYYYYY", "YYYYYKKYYYYY", "YYYYYYKYYYYY", "YYYYYYYYYYYY"],
-        {"X": "#e4e4e7", "Y": "#fbbf24", "K": "#422006"},
-    ),
-    "tilo": (
-        [".........AA", ".........AA", "......AA.AA", "......AA.AA", "...AA.AA.AA",
-         "...AA.AA.AA", "AA.AA.AA.AA", "AA.AA.AA.AA", "XXXXXXXXXXX"],
-        {"X": TEXT, "A": "#86efac"},
-    ),
-    "stackhub": (
-        ["..XXXXXXXX..", "..XXXXXXXX..", "............", ".AAAAAAAAAA.", ".AAAAAAAAAA.",
-         "............", "BBBBBBBBBBBB", "BBBBBBBBBBBB"],
-        {"X": TEXT, "A": "#c4b5fd", "B": VIOLET},
-    ),
     "huella": (
         ["...XX..XX...", "...XX..XX...", "XX........XX", "XX........XX", "....XXXX....",
          "...XXXXXX...", "..XXXXXXXX..", "..XXXXXXXX..", "...XX..XX..."],
@@ -463,9 +477,9 @@ def wrap(s, n):
     return lines
 
 
-def card(key, title, url_label, desc, chips, status, accent, **_):
+def card(key, title, url_label, desc, chips, status, accent, logo=None, logo_mode="full"):
     W, H = 620, 350
-    icon, pal = ICONS[key]
+    icon, pal = ICONS.get(key, (None, None))
     g0, g1 = TILE_GRAD[key]
     b = [
         '<defs>'
@@ -480,16 +494,28 @@ def card(key, title, url_label, desc, chips, status, accent, **_):
         f'<ellipse cx="{W - 40}" cy="10" rx="300" ry="220" fill="url(#glow)"/></g>',
         f'<rect x=".75" y=".75" width="{W - 1.5}" height="{H - 1.5}" rx="26" fill="none" stroke="#fff" stroke-opacity=".1" stroke-width="1.5"/>',
     ]
-    # icon tile
+    # icon tile: the project's own logo when it has one, else a pixel icon
     tx, ty, ts = 34, 34, 92
-    ip = 6
-    iw, ih = len(icon[0]) * ip, len(icon) * ip
-    b.append(
-        f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#t)"/>'
-        f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#s)"/>'
-        f'<rect x="{tx + .5}" y="{ty + .5}" width="{ts - 1}" height="{ts - 1}" rx="22" fill="none" stroke="#fff" stroke-opacity=".2"/>'
-        + sprite(icon, pal, tx + (ts - iw) / 2, ty + (ts - ih) / 2, ip)
-    )
+    if logo:
+        uri = data_uri(LOGOS / logo)
+        if logo_mode == "full":  # square app icon: just round its corners
+            art = (f'<clipPath id="lc"><rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22"/></clipPath>'
+                   f'<image href="{uri}" x="{tx}" y="{ty}" width="{ts}" height="{ts}" clip-path="url(#lc)" preserveAspectRatio="xMidYMid slice"/>')
+        else:  # transparent mark: place it on the gradient tile
+            pad = ts * 0.2
+            art = (f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#t)"/>'
+                   f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#s)"/>'
+                   f'<image href="{uri}" x="{tx + pad}" y="{ty + pad}" width="{ts - 2 * pad}" height="{ts - 2 * pad}"/>')
+        b.append(art + f'<rect x="{tx + .5}" y="{ty + .5}" width="{ts - 1}" height="{ts - 1}" rx="22" fill="none" stroke="#fff" stroke-opacity=".2"/>')
+    else:
+        ip = 6
+        iw, ih = len(icon[0]) * ip, len(icon) * ip
+        b.append(
+            f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#t)"/>'
+            f'<rect x="{tx}" y="{ty}" width="{ts}" height="{ts}" rx="22" fill="url(#s)"/>'
+            f'<rect x="{tx + .5}" y="{ty + .5}" width="{ts - 1}" height="{ts - 1}" rx="22" fill="none" stroke="#fff" stroke-opacity=".2"/>'
+            + sprite(icon, pal, tx + (ts - iw) / 2, ty + (ts - ih) / 2, ip)
+        )
     # status chip
     sw = len(status) * 9 + 40
     dot = {"LIVE": GREEN, "API": BLUE, "TEAM": VIOLET}.get(status, TEXT2)
@@ -517,28 +543,39 @@ def card(key, title, url_label, desc, chips, status, accent, **_):
             f'<text x="{cx + 13}" y="313" font-family="{MONO}" font-size="14.5" fill="#d4d4d8">{escape(c)}</text>'
         )
         cx += w + 8
-    return svg(W, H, "".join(b), title)
+    # transparent margin so neighbouring cards in the README don't touch
+    m = CARD_MARGIN
+    return svg(W + 2 * m, H + 2 * m, f'<g transform="translate({m} {m})">' + "".join(b) + "</g>", title)
+
+
+CARD_MARGIN = 22
+
+
+def data_uri(path):
+    mime = {".png": "image/png", ".svg": "image/svg+xml"}[path.suffix]
+    return f"data:{mime};base64," + base64.b64encode(path.read_bytes()).decode()
 
 
 PROJECTS = [
     dict(key="durandev", title="durandev", url_label="durandev.vercel.app",
          desc="Mi marca freelance: webs rápidas, tiendas online y SEO para negocios de Vigo y Galicia.",
-         chips=["Next.js", "TypeScript", "Tailwind", "shadcn/ui", "Motion"], status="LIVE", accent=VIOLET),
+         chips=["Next.js", "TypeScript", "Tailwind", "shadcn/ui", "Motion"], status="LIVE", accent=VIOLET,
+         logo="durandev.png", logo_mode="mark"),
     dict(key="quecoche", title="¿Qué coche es?", url_label="quecochees.es",
          desc="Identifica cualquier coche por foto con IA: modelo, ficha técnica y precio de segunda mano.",
-         chips=["Next.js", "TypeScript", "Gemini API", "Upstash", "Zod"], status="LIVE", accent=BLUE),
+         chips=["Next.js", "TypeScript", "Gemini API", "Upstash", "Zod"], status="LIVE", accent=BLUE, logo="quecoche.png"),
     dict(key="anden", title="Andén", url_label="andentren.es",
          desc="Retrasos, avisos e incidencias de Renfe en directo con datos oficiales y mapa de trenes.",
-         chips=["JavaScript", "Vercel Functions", "GTFS-Realtime", "Gemini"], status="LIVE", accent="#5eead4"),
+         chips=["JavaScript", "Vercel Functions", "GTFS-Realtime", "Gemini"], status="LIVE", accent="#60a5fa", logo="anden.png"),
     dict(key="llavero", title="Llavero", url_label="app-llavero.vercel.app",
          desc="Gestor de contraseñas con cifrado en el navegador, códigos 2FA y extensión que autocompleta.",
-         chips=["React", "TypeScript", "Firebase", "Vite", "Vitest"], status="LIVE", accent="#fbbf24"),
-    dict(key="tilo", title="Tilo", url_label="tilo-app.vercel.app",
+         chips=["React", "TypeScript", "Firebase", "Vite", "Vitest"], status="LIVE", accent="#60a5fa", logo="llavero.svg"),
+    dict(key="tilo", title="Tilo", url_label="app-tilo.vercel.app",
          desc="Presupuesto del hogar compartido: sueldos, gastos por categoría, ahorro e informe mensual.",
-         chips=["React 19", "TypeScript", "Supabase", "TanStack Query"], status="LIVE", accent="#86efac"),
+         chips=["React 19", "TypeScript", "Supabase", "TanStack Query"], status="LIVE", accent="#34d399", logo="tilo.png"),
     dict(key="stackhub", title="StackHub", url_label="stackhub-app.vercel.app",
          desc="Más de 150 recursos gratuitos para diseñadores y devs: iconos, fuentes, UI y componentes.",
-         chips=["Next.js", "React", "Tailwind", "Framer Motion"], status="LIVE", accent="#818cf8"),
+         chips=["Next.js", "React", "Tailwind", "Framer Motion"], status="LIVE", accent="#facc15", logo="stackhub.png"),
     dict(key="huella", title="La Huella de Puri", url_label="lahuelladepuri.vercel.app",
          desc="Tienda y catálogo artesanal con panel de administración para gestionar productos.",
          chips=["Next.js", "React 19", "Supabase", "Tailwind"], status="LIVE", accent="#fdba74"),

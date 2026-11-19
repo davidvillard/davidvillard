@@ -13,7 +13,7 @@
 
 <img src="./assets/readme/header-sobre-mi.svg" width="100%" alt="01 — Sobre mí"/>
 
-<img src="./assets/readme/terminal.svg" width="100%" alt="neofetch: David Villar Durán, full-stack developer en Gyleven y freelance como durandev, Vigo. TypeScript, JavaScript, Python, Java, PHP. React, Next.js, Vite, Tailwind, shadcn/ui. Node.js, Supabase, Firebase, Vercel. Construyo y mantengo productos propios en producción: ¿Qué coche es?, Andén, Llavero y Tilo.""/>
+<img src="./assets/readme/terminal.svg" width="100%" alt="neofetch: David Villar Durán, full-stack developer en Gyleven y freelance como durandev, Vigo. TypeScript, JavaScript, Python, Java, PHP. React, Next.js, Vite, Tailwind, shadcn/ui. Node.js, Supabase, Firebase, Vercel. Construyo y mantengo productos propios en producción: ¿Qué coche es?, Andén, Llavero y Tilo."/>
 
 <br/><br/><br/>
 
@@ -23,7 +23,7 @@
 <a href="https://quecochees.es"><img src="./assets/readme/card-quecoche.svg" width="49%" alt="¿Qué coche es? — identifica cualquier coche por foto con IA"/></a>
 <a href="https://andentren.es"><img src="./assets/readme/card-anden.svg" width="49%" alt="Andén — retrasos, avisos e incidencias de Renfe en directo"/></a>
 <a href="https://app-llavero.vercel.app"><img src="./assets/readme/card-llavero.svg" width="49%" alt="Llavero — gestor de contraseñas con cifrado en el navegador"/></a>
-<a href="https://tilo-app.vercel.app"><img src="./assets/readme/card-tilo.svg" width="49%" alt="Tilo — presupuesto del hogar compartido"/></a>
+<a href="https://app-tilo.vercel.app"><img src="./assets/readme/card-tilo.svg" width="49%" alt="Tilo — presupuesto del hogar compartido"/></a>
 <a href="https://stackhub-app.vercel.app"><img src="./assets/readme/card-stackhub.svg" width="49%" alt="StackHub — más de 150 recursos gratuitos para diseñadores y devs"/></a>
 <a href="https://lahuelladepuri.vercel.app"><img src="./assets/readme/card-huella.svg" width="49%" alt="La Huella de Puri — tienda y catálogo artesanal con panel de administración"/></a>
 <a href="https://github.com/davidvillard/drfbackendcheck"><img src="./assets/readme/card-shield.svg" width="49%" alt="Security Verifier — API que analiza URLs, emails, teléfonos y SMS sospechosos"/></a>
@@ -36,7 +36,7 @@
 
 <img src="./assets/readme/header-stack.svg" width="100%" alt="03 — Stack"/>
 
-<img src="./assets/readme/specs.svg" width="100%" alt="Día a día — Lenguajes: TypeScript, JavaScript, SQL. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Motion. Backend y datos: Node.js, Supabase, Firebase, Vercel Functions, Upstash. Herramientas: TanStack Query, Zod, Vitest, Gemini API. Deploy: Vercel, Git, GitHub. También sé — Python, Java, PHP; Django REST Framework, Express, Vue, Astro, Bootstrap; MySQL, MongoDB, Docker, WordPress, Netlify, Postman.""/>
+<img src="./assets/readme/specs.svg" width="100%" alt="Día a día — Lenguajes: TypeScript, JavaScript, SQL. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Motion. Backend y datos: Node.js, Supabase, Firebase, Vercel Functions, Upstash. Herramientas: TanStack Query, Zod, Vitest, Gemini API. Deploy: Vercel, Git, GitHub. También sé — Python, Java, PHP; Django REST Framework, Express, Vue, Astro, Bootstrap; MySQL, MongoDB, Docker, WordPress, Netlify, Postman."/>
 
 <br/><br/>
 
