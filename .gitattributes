@@ -1,0 +1,2 @@
+# The generator script is tooling, not what this repo is about
+scripts/** linguist-detectable=false
